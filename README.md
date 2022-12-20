@@ -4,7 +4,7 @@ Hey there!
 
 I am Defalt.! I love coding, webapp security, and exploitation.
 
-![LMAO](https://i.ytimg.com/vi/524ioo-nVK8/maxresdefault.jpg))
+![LMAO](https://i.ytimg.com/vi/ABz764rlAiI/maxresdefault.jpg)
 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=Defaltttt&show_icons=true&theme=highcontrast) 
