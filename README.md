@@ -4,7 +4,7 @@ Hey there!
 
 I am Defalt.! I love coding, webapp security, and exploitation.
 
-![defaltsex](https://user-images.githubusercontent.com/url?sa=i&url=https%3A%2F%2Fopen.spotify.com%2Falbum%2F40yva20CHopcFPFlSrel9A&psig=AOvVaw2lVSi3pyF0XzDOepyGkpxy&ust=1671659916657000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMiWxNeYifwCFQAAAAAdAAAAABAD
+![LMAO](https://i.scdn.co/image/ab67616d00001e026d06c13cb12bc72d906665f3)
 
 ![](https://github-readme-stats.vercel.app/api?username=Defaltttt&show_icons=true&theme=highcontrast) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Defaltttt&layout=compact&theme=highcontrast)
