@@ -1,8 +1,8 @@
 # **Whoami**
 
-Hey there! 
+Hey! 
 
-I am Defalt.! I love coding, webapp security, and exploitation.
+I'm Defalt.! I like coding, webapp security, and exploitation.
 
 ![LMAO](https://i.ytimg.com/vi/ABz764rlAiI/maxresdefault.jpg)
 
