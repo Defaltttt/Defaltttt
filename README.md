@@ -2,7 +2,7 @@
 
 Hey! 
 
-I'm Defalt.! I like cybersec. (I use Fedora btw)
+I'm Defalt.! I like Cybersec. (I use Fedora btw)
 
 ![LMAO](https://user-images.githubusercontent.com/121131661/210280785-6fdc48d8-c0d6-4fc8-9d35-1cd70d3084f4.png)
 
