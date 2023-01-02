@@ -2,7 +2,7 @@
 
 Hey! 
 
-I'm Defalt.! I like coding, webapp security, and exploitation.
+I'm Defalt.! I like cybersec. (I use Fedora btw)
 
 ![LMAO](https://i.ytimg.com/vi/ABz764rlAiI/maxresdefault.jpg)
 
